@@ -549,7 +549,7 @@
   "TaskConfirmationModal.cancel.label": "취소",
   "TaskConfirmationModal.submit.label": "제출",
   "TaskHistory.fields.startedOn.label": "시작됨",
-  "TaskHistory.controls.viewAttic.label": "View Attic",
+  "TaskHistory.controls.viewAttic.label": "Attic 보기",
   "Task.markedAs.label": "작업의 상태:",
   "Task.requestReview.label": "검토를 요청하시겠습니까?",
   "Task.awaitingReview.label": "검토를 기다리고 있습니다.",
